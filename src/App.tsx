@@ -7,7 +7,7 @@ import "./App.css";
 const App: FC = () => {
   return (
     <div>
-      <h1 className="App">Connect Four</h1>
+      <h1>Connect Four</h1>
       <Board />
     </div>
   );
