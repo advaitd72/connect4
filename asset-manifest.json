@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/connect4/static/css/main.5a915fca.css",
+    "main.js": "/connect4/static/js/main.c9a33224.js",
+    "static/media/yellowToken.svg": "/connect4/static/media/yellowToken.2342c86c598baae4228b16ce175ae65c.svg",
+    "static/media/redToken.svg": "/connect4/static/media/redToken.94f5d8f71b6be8900624a0a2dd335c78.svg",
+    "index.html": "/connect4/index.html",
+    "main.5a915fca.css.map": "/connect4/static/css/main.5a915fca.css.map",
+    "main.c9a33224.js.map": "/connect4/static/js/main.c9a33224.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a915fca.css",
+    "static/js/main.c9a33224.js"
+  ]
+}
